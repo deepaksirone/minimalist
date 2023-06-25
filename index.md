@@ -2,122 +2,31 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Welcome!
+I am a graduate student in [Computer Sciences](https://cs.wisc.edu){:target="_blank"} at the [University of Wisconsin-Madison](https://wisc.edu){:target="_blank"}. I am extremely fortunate to be advised by [Mike Swift](https://pages.cs.wisc.edu/~swift/){:target="_blank"} to explore my interests. My research interests lie at the intersection of systems and security.
 
-[Link to another page](./another-page.html).
+Prior to joining Wisconsin, I was a masters student at [IIT Kanpur](https://www.iitk.ac.in/) where I was advised by [Pramod Subramanyan](https://www.cse.iitk.ac.in/users/spramod/){:target="_blank"}. I completed my undergraduate studies from [NIT Calicut](http://www.nitc.ac.in/).
+## Publications
 
-There should be whitespace between paragraphs.
+### Conference Publications
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+- Guarding Serverless Applications with Kalium (to appear in **USENIX Security '23**)
+  **Deepak Sirone Jegan**, Liang Wang, Siddhant Bhagat, Michael Swift   
+  [[preprint]](https://pages.cs.wisc.edu/~dsirone/papers/kalium_prepub.pdf){:target="_blank"}
+- Functional Analysis Attacks on Logic Locking (**DATE '19**)   
+  **Deepak Sirone Jegan**, Pramod Subramanyan  
+  [[doi]](https://doi.org/10.23919/DATE.2019.8715163){:target="_blank"}
 
-# Header 1
+### Journal Publications
+- Functional Analysis Attacks on Logic Locking (**TIFS**)  
+  **Deepak Sirone Jegan**, Pramod Subramanyan  
+  [[arXiv]](https://arxiv.org/abs/1811.12088){:target="_blank"}
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Thesis
+- Improving Lazy Self Composition for Secure Information Flow  
+  M.Tech. Thesis - Indian Institute of Technology, Kanpur - 2019  
+  [[pdf]](https://pages.cs.wisc.edu/~dsirone/papers/mtech_thesis.pdf){:target="_blank"}
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Experience
+- Research Intern - [Azure for Operators (OCTO)](https://www.microsoft.com/en-us/research/group/azure-for-operators-afo-research/), Summer 2021
+	* Mentor: [Ryan Beckett](https://www.microsoft.com/en-us/research/people/rybecket/)
