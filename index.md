@@ -9,8 +9,10 @@ Prior to joining Wisconsin, I was a masters student at [IIT Kanpur](https://www.
 ## Publications
 
 ### Conference Publications
-
-- Guarding Serverless Applications with Kalium (to appear in **USENIX Security '23**)
+- TAPDance: Architecting Trigger-Action Platforms for Security, Performance and Functionality (to appear in **NDSS '24**)   
+  **Deepak Sirone Jegan**, Michael Swift, Earlence Fernandes   
+  [[preprint]](https://pages.cs.wisc.edu/~dsirone/papers/tapdance.pdf){:target="_blank"} [[code]](https://github.com/multifacet/tap_artifact)
+- Guarding Serverless Applications with Kalium (to appear in **USENIX Security '23**)   
   **Deepak Sirone Jegan**, Liang Wang, Siddhant Bhagat, Michael Swift   
   [[preprint]](https://pages.cs.wisc.edu/~dsirone/papers/kalium_prepub.pdf){:target="_blank"} [[code]](https://github.com/multifacet/kalium_artifact)
 - Functional Analysis Attacks on Logic Locking (**DATE '19**)   
